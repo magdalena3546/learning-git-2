@@ -4,8 +4,13 @@ section {
     transform: translateX(-50%);
     width: 25%;
     text-align: center;
-    font-family: arial;
+    font-family: 'Source Sans Pro';
     line-height: 1.7;
+}
+
+h1,
+h2 {
+    font-family: 'Quicksand';
 }
 
 h2 {
